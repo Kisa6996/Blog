@@ -1,0 +1,6 @@
+.container {
+    justify-content: space-between;
+}
+.nav {
+    gap: 20px;
+}

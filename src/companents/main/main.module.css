@@ -1,0 +1,29 @@
+.hero {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.8)),
+        url("../../img/man-in-black-suit-wearing-eye-glasses-sitting-on-gray-sofa-using-macbook-3772622.png");
+    background-repeat: no-repeat;
+    width: 100%;
+}
+.block {
+    width: 600px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.title {
+    padding-top: 200px;
+    padding-left: 80px;
+}
+.titleSlid {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding-top: 20px;
+    margin-bottom: 20px;
+    opacity: 0.7;
+}
+.subtitle {
+    opacity: 0.8;
+    padding-top: 30px;
+    padding-left: 80px;
+    padding-bottom: 300px;
+}
